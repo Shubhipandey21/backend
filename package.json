@@ -1,0 +1,20 @@
+{
+  "name": "mycontact-backend-api",
+  "version": "1.0.0",
+  "description": "This is express projet for my contacts backend api",
+  "main": "server.js",
+  "scripts": {
+    "test": " ",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Shubhi Pandey",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
